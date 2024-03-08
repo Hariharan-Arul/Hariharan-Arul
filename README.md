@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hariharan-Arul
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in app dev
+- 🌱 I’m currently learning Bootstrap and react js
 - 💞️ I’m looking to collaborate on Github
 
 
