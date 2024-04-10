@@ -21,6 +21,10 @@
 
 ---
 
+## GitHub Contributions Graph
+[![Hariharan's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariharan-Arul&theme=github-dark)](https://github.com/Hariharan-Arul)
+
+
 <div align="center">
   <h3>Profile Views:</h3>
   <img src="https://komarev.com/ghpvc/?username=Hariharan-Arul" alt="Profile Views" style="max-width: 100px;">
