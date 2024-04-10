@@ -1,10 +1,47 @@
-- 👋 Hi, I’m @Hariharan-Arul
-- 👀 I’m interested in app dev
-- 🌱 I’m currently learning Bootstrap and react js
-- 💞️ I’m looking to collaborate on Github
+<div align="center">
+  <h1>Hi there, I'm Hariharan Arul! 👋</h1>
+  <h3>An enthusiastic app developer exploring Bootstrap and React.js</h3>
+</div>
 
+<div align="center">
+  <p>📧 <b>Email:</b> <a href="mailto:hariharn.14107@gmailcom">hariharn.14107@gmailcom</a></p>
+  <p><a href="www.linkedin.com/in/hariharan-arul">Linkedin</a></p>
+</div>
 
-<!---
-Hariharan-Arul/Hariharan-Arul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hariharan-Arul&show_icons=true&theme=radical" alt="Hariharan Arul's GitHub Stats" style="max-width: 400px;">
+</div>
+
+<div align="center">
+  <h3>GitHub Trophies:</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hariharan-Arul&theme=radical&column=7&margin-w=10" alt="GitHub Trophies" style="max-width: 400px;">
+</div>
+
+---
+
+<div align="center">
+  <h3>Profile Views:</h3>
+  <img src="https://komarev.com/ghpvc/?username=Hariharan-Arul" alt="Profile Views" style="max-width: 100px;">
+</div>
+
+<div align="center">
+  <h3>GitHub Contribution Streak:</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariharan-Arul" alt="GitHub Contribution Streak" style="max-width: 400px;">
+</div>
+
+<div align="center">
+  <h3>GitHub Followers:</h3>
+  <img src="https://img.shields.io/github/followers/Hariharan-Arul?style=social" alt="GitHub Followers" style="max-width: 100px;">
+</div>
+
+<div align="center">
+  <h3>GitHub Stars:</h3>
+  <img src="https://img.shields.io/github/stars/Hariharan-Arul?style=social" alt="GitHub Stars" style="max-width: 100px;">
+</div>
+
+<div align="center">
+  <h3>GitHub Forks:</h3>
+  <img src="https://img.shields.io/github/forks/Hariharan-Arul/Hariharan-Arul?style=social" alt="GitHub Forks" style="max-width: 100px;">
+</div>
