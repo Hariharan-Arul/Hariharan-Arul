@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Hariharan Arul! 👋</h1>
-  <h3>An enthusiastic app developer exploring Bootstrap and React.js</h3>
+  <h3>An enthusiastic Computer Science student pursuing BTech at Amrita University Coimbatore</h3>
 </div>
 
 <div align="center">
