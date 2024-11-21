@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <p>📧 <b>Email:</b> <a href="mailto:hariharan.14107@gmailcom">hariharan.14107@gmailcom</a></p>
+  <p>📧 <b>Email:</b> <a href="mailto:hariharan.14107@gmail.com">hariharan.14107@gmail.com</a></p>
   <p><a href="www.linkedin.com/in/hariharan-arul">Linkedin</a></p>
 </div>
 
